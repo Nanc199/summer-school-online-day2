@@ -1,4 +1,4 @@
-
+# Summer school online day2
 CSS types I used:
 - Inline CSS: Added directly to the <body> tag for background color.
 - Internal CSS: Defined in the <style> section inside the <head>.
