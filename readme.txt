@@ -12,5 +12,3 @@ Selectors I used:
 - Descendant selector: .contact p
 - Attribute selector: .contact a[href]
 
-Bonus:
-- Added a hover effect for contact links using a[href]:hover.
